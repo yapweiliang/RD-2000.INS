@@ -8,3 +8,7 @@ Warning: not yet tested...
 Contains
 - [Roland RD-2000] patches
 - [Roland RD-2000 Rhythm] drum with note names
+
+To do:
+- discover if can reference EXP patches?
+- decide and define some of the percussion patches as Drum
