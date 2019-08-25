@@ -1,9 +1,9 @@
 # RD-2000.INS
 Roland RD-2000 Cakewalk Instrument Definition File
 
-Initial attempt, based on information extracted from the Roland manuals
+Based on information extracted from the Roland manuals.  
 
-**Warning: not yet tested...**
+Seems to work (tested with Cakewalk By Bandlab, previously known as Sonar Platinum)
 
 Contains
 - [Roland RD-2000] patches
