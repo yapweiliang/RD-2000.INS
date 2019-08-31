@@ -1,5 +1,16 @@
 # List of Tones, taken from the respective Axial download files
 
+EXP | MSB | LSB
+--- | --- | ---
+RD-EXP01 | 84 | 24
+RD-EXP02 | 84 | 25
+RD-EXP03 | 84 | 26
+RD-EXP04 | 84 | 27
+RD-EXP05 | 84 | 28
+RD-EXP06 | 84 | 29
+
+*I think these are the LSB numbers.  Not tested/confirmed by myself as yet*
+
 ## EXP01 Tone List (RD-500/600/700)
 
 (not transcribed here)
