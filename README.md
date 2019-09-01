@@ -7,7 +7,9 @@ Files:
 - **"RD-2000.INS"** : short names, minor whitespace errors, not include EXP patches, kept here in case you prefer shorter names
 - **"RD-2000 - Long Names.INS"** : long names (category names), includes EXP patches
 
-Contains:
+*To download, click the green [CLONE OR DOWNLOAD] button to get all these files, or, copy/paste what you want from the web browser.*
+
+Contents:
 - [Roland RD-2000] patches
 - [Roland RD-2000 Rhythm] drum with note names
 - [Roland RD-EXP] patches (02 to 05 only)
