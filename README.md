@@ -4,7 +4,7 @@ Roland RD-2000 Cakewalk Instrument Definition File
 Based on information extracted from the Roland manuals and http://forums.rolandclan.com 
 
 Files:
-- **"RD-2000.INS"** : short names, minor whitespace errors, not include EXP patches, kept here in case you prefer shorter names
+- **"RD-2000.INS"** : short names, minor whitespace errors, not include EXP patches, *not updated*, kept here in case you prefer shorter names
 - **"RD-2000 - Long Names.INS"** : long names (category names), includes EXP patches
 
 *To download, click the green [CLONE OR DOWNLOAD] button to get all these files, or, copy/paste what you want from the web browser.*
@@ -13,9 +13,10 @@ Contents:
 - [Roland RD-2000] patches
 - [Roland RD-2000 Rhythm] drum with note names
 - [Roland RD-EXP] patches (02 to 05 only)
+- [V-Piano Expansion 01 German Concert] **added 2022-12-20**
 
 To do:
-- [ ] add V-PIANO EXPANSION patches
+- [x] add V-PIANO EXPANSION patches
 - [x] discover if can reference EXP patches? yes: see http://forums.rolandclan.com/viewtopic.php?f=62&t=55167
 - [x] decided that the PERCUSSION patches need not be defined as *drum* (as 1089 Reverse Cymb is not a one-hit tone)
 - [x] to correct some minor spelling mistakes (consistency of whitespace)
