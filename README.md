@@ -12,7 +12,7 @@ Files:
 Contents:
 - [Roland RD-2000] patches
 - [Roland RD-2000 Rhythm] drum with note names
-- [Roland RD-EXP] patches (02 to 05 only)
+- [Roland RD-EXP] patches (02 to 06 only) **added EXP06 2024-04-26**
 - [V-Piano Expansion 01 German Concert] **added 2022-12-20**
 
 To do:
