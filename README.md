@@ -16,13 +16,10 @@ Contents:
 - [V-Piano Expansion 01 German Concert] **added 2022-12-20**
 
 To do:
-- [x] add V-PIANO EXPANSION patches
-- [x] discover if can reference EXP patches? yes: see http://forums.rolandclan.com/viewtopic.php?f=62&t=55167
-- [x] decided that the PERCUSSION patches need not be defined as *drum* (as 1089 Reverse Cymb is not a one-hit tone)
-- [x] to correct some minor spelling mistakes (consistency of whitespace)
-- [x] to add RD-EXP patches (or at least the ones that I use)
+- [ ] add Essential Upright patches
 
 If there are any corrections that you would like me to make, please raise it as an Issue
 
 Additional notes:
+- decided that the PERCUSSION patches need not be defined as *drum* (as 1089 Reverse Cymb is not a one-hit tone)
 - David Doré has added the other EXP patches here: https://community.cantabilesoftware.com/t/cakewalk-ins-file-exchange/6665
